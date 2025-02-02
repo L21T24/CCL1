@@ -12,7 +12,7 @@ Comic/Story
 
 GamePlay
 <div style="text-align: center;">
-  <img src="ComicStartscreen.png" alt="Gameplay Screenshot" width="600">
+  <img src="Toth_Laetitia_02.png" alt="Gameplay Screenshot" width="600">
   <p>*The Comic from the Startscreen*</p>
 </div>
 
