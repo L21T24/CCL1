@@ -18,7 +18,7 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 
 ##Mermaid
 <div style="text-align: center;">
-  <img src="MermaisSprites.png" alt="Gameplay Screenshot" width="600">
+  <img src="MermaidSprites.png" alt="Gameplay Screenshot" width="600">
   <p>*The Comic from the Startscreen*</p>
 </div>
 
