@@ -38,7 +38,9 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 
 ## Lessons Learned:
 
-    <p>-OOP Practice is Key: Breaking down the game into manageable classes helped, but I need more experience with structuring code efficiently.</p>
-    <p>-Debugging Strategies Matter: Learning to debug collision issues and refine movement physics was valuable for future projects.</p>
-    <p>-Start Simple: Beginning with a minimal working version and gradually adding features made the development process more manageable.</p>
+  -OOP Practice is Key: Breaking down the game into manageable classes helped, but I need more experience with structuring code efficiently.
+  
+  -Debugging Strategies Matter: Learning to debug collision issues and refine movement physics was valuable for future projects.
+  
+  -Start Simple: Beginning with a minimal working version and gradually adding features made the development process more manageable.
 
