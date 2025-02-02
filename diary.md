@@ -1,4 +1,4 @@
-##13.01.2025 – Initial Planning
+13.01.2025 – Initial Planning
 The project kickoff! I spent the entire day figuring out how I wanted the gameplay to work. Instead of having the mermaid move from left to right, I decided to keep her static and make the algae move instead.
 
 14.01.2025 – Implementing Algae Movement
