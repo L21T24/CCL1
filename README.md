@@ -6,17 +6,17 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 ---
 ##Comic/Story
 <div style="text-align: center;">
-  <img src="ComicStartscreen.png" alt="Gameplay Screenshot" width="600">
-  <p>*The Comic from the Startscreen*</p>
+  <img src="ComicStartscreen.png" alt="Comic" width="600">
+  <p>*The Comic from the start screen*</p>
 </div>
 
 ##GamePlay
 <div style="text-align: center;">
   <img src="Toth_Laetitia_02.png" alt="Gameplay Screenshot" width="600">
-  <p>*The Comic from the Startscreen*</p>
+  <p>*Gameplay Screenshot*</p>
 </div>
 
-##Mermaid
+##*Mermaid*
 <div style="text-align: center;">
   <img src="MermaidSprites.png" alt="Gameplay Screenshot" width="600">
   <p>*The Comic from the Startscreen*</p>
