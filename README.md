@@ -18,7 +18,7 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 
 ## Mermaid
 <div style="text-align: center;">
-  <img src="MermaidSprites.png" alt="Mermaid Spritesheet" width="300">
+  <img src="MermaidSprites.png" alt="Mermaid Spritesheet" width="64">
   <p>Mermaid Spritesheet</p>
 </div>
 
