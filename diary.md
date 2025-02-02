@@ -1,39 +1,44 @@
-13.01.2025
-We had the start and i just spent the entire day figuring out how i would wanna do the game. I decided i want the algea to be moving from left to right instead of the mermaid.
+13.01.2025 – Initial Planning
+The project kickoff! I spent the entire day figuring out how I wanted the gameplay to work. Instead of having the mermaid move from left to right, I decided to keep her static and make the algae move instead.
 
-14.012025
-I stared to implement the algea as just a streched green recktangle. I did manage to get it to move and dissapear but for some reason it is flickering and sometimes the random placed inbetween gaps are too random making it not playable.
+14.01.2025 – Implementing Algae Movement
+I started by implementing the algae as a simple stretched green rectangle. I managed to get it moving and disappearing, but I encountered one major issues:
+    -The randomly generated gaps between the algae were sometimes placed in a way that made the game unplayable.
 
-15.01.2025
-I imported a fish just to see where i would like to place the mermaid it has no collison or anything yet. Fixed the algea with the help of a tutor tho.
-I messed up the random value and we placed it correctly therefore the algeagaps are now all in the screen not pushing each other out and the flickering
-i had a problem with was cause by me having something in there double and therefore not loading properly.
+15.01.2025 – Fixing Algae Generation & Adding a Fish
+I imported a fish sprite to test the mermaid's placement, though it had no collision yet.
+With the help of a tutor, I fixed the algae's random gap placement. The issue was caused by an incorrect random value assignment, which led to gaps pushing each other out of view.
 
-16.01.2025
-With Florians help the entire thing got made oop. The shells now spawn randomly the algea doesn't go out of screen anymore.
+16.01.2025 – Object-Oriented Programming (OOP) Refactor
+Florian helped me refactor the game to use Object-Oriented Programming (OOP).
+    -Shells now spawn randomly.
 
-17.01.2025
-The shells now dont spawn in the algea and i have a counter that goes up when u touch the algea. Collion with the top and bottom of the canvas doesnt work yet tho
+17.01.2025 – Improving Collisions & Counter Implementation
+    -Shells now spawn without overlapping with the algae.
+    -I added a counter that increases when the mermaid touches the shells.
+    -Collision detection for the top and bottom of the canvas is still missing.
 
-18.01.2025
--rest day
+18.01.2025 – Rest Day
+Took a well-deserved break.
 
-19.01.2025
-I stared drawing the Comic the pot and the mermaid.
+19.01.2025 – Artwork Begins
+I started drawing the comic and the mermaid sprite.
 
-20.01.2025
-i stared implementing the mermaid sprites now she is flopping around. The Algea doesnt flicker around anymore now because the loading of it is fixed now. I have now pretty backgrounds as well because i stared working on them
+20.01.2025 – Mermaid Animation & Backgrounds
+    -Began implementing the mermaid’s sprites; she now flops around when moving.
+    -The algae no longer flicker because the loading issue was finally fixed.
+    -I created and implemented pretty background images.
+    -Added a start and end screen.
 
-21.01.2025
-With help from a tutor the mermaid now can't swim out on the top meaning everything has collision now.
+21.01.2025 – Collision System Completed
+With the help of a tutor, I added collision detection that prevents the mermaid from swimming out of the top of the screen.
 
-22.01.2025
+22.01.2025 – Animated Pot Added
+I created the pot sprite and animated it. And fixed small details around the game.
 
+23.01.2025 – Fixing Animations & UI Polish
+    -Spent the entire day fixing the animations for the comic in the start screen.
+    -Adjusted the pot animation on the end screen.
 
-23.01.2025
-I spent the entire day fixing the animation in the comic on the start screen and the Pot animation on the end screen.
-
-24.01.2025
-Final Day Presentation
-
-
+24.01.2025 – Final Presentation Day
+The game is complete, and I presented it!
