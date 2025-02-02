@@ -23,7 +23,7 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 ## Shell
 <div style="text-align: center;">
   <img src="Shell.png" alt="Shell" width="52">
-  <p>The Comic from the Startscreen</p>
+  <p>Shell</p>
 </div>
 
 
