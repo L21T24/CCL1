@@ -1,0 +1,159 @@
+/* Global styling applied to the entire body */
+body {
+  text-align: center; /* Center-align text content */
+  background-image: url('../images/SeaBackground6.png'); /* Background image */
+  image-rendering: pixelated; /* Enforces pixelated rendering for retro style */
+  background-color: #123a59; /* Fallback background color */
+  background-repeat: no-repeat; /* Prevents background image from repeating */
+  background-size: cover; /* Ensures the background covers the entire viewport */
+}
+
+/* Canvas styling (game board) */
+#board {
+  background-image: url('/images/boardBackground2.png'); /* Background image for canvas */
+  border: solid 10px #9a875c; /* Adds a border around the canvas */
+  margin: 15px; /* Adds spacing around the canvas */
+}
+
+/* Styling for the start screen title */
+#SplashyTails {
+  font-family: "Mystery Quest", serif; /* Custom font */
+  margin-bottom: 0; /* Removes extra space below the title */
+  font-size: 50px;
+  color: #F0F0F0; /* Light text color */
+}
+
+/* Instructions image positioning */
+#instructions {
+  position: absolute; /* Allows precise positioning */
+  bottom: 0; /* Aligns the image to the bottom edge */
+  left: 0; 
+  width: 400px;
+  height: 400px;
+}
+
+/* Styling for general paragraphs */
+p {
+  font-size: 20px;
+  margin: 0;
+  color: #F0F0F0; /* Light text color */
+}
+
+/* Styling for the start screen container */
+#starScreen {
+  text-align: cover;
+}
+
+/* Styling for the comic animation */
+#comic {
+  width: 40%; /* Scale width to 40% of parent container */
+  height: 40%; /* Scale height proportionally */
+  align-items: center;
+  margin-bottom: 0;
+  image-rendering: auto; /* Automatic rendering optimization */
+  image-rendering: crisp-edges; /* Enhances sharpness */
+}
+
+/* Styling for game stats */
+h2 {
+  font-size: 20px;
+  margin: 0;
+  color: #F0F0F0;
+}
+
+/* Styling for the soup image */
+#soup {
+  width: 15%;
+  height: 15%;
+  align-items: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+/* Styling for final score display */
+#finalScore {
+  font-size: 20px;
+  margin: 0;
+  color: #F0F0F0;
+}
+
+/* Hide game and end screens by default */
+#gamee {
+  display: none;
+}
+
+#endScreen {
+  display: none;
+}
+
+/* Custom font application */
+.mystery-quest-regular {
+  font-family: "Mystery Quest", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ------------------ Button Styling ------------------ */
+/* Styling for the start button */
+#start {
+  width: 500px;
+  height: 50px;
+  margin-top: 2%;
+  background-color: #F0F0F0;
+}
+
+#start {
+  font-family: "Mystery Quest", serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #9a875c;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+/* Effect when start button is clicked */
+#start:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+/* Styling for the menu button */
+#menu {
+  width: 500px;
+  height: 50px;
+  background-color: #F0F0F0;
+  margin-top: 2%;
+}
+
+#menu {
+  font-family: "Mystery Quest", serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #9a875c;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+/* Effect when menu button is clicked */
+#menu:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
