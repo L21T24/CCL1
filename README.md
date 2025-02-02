@@ -29,15 +29,15 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 
 
 ## Challenges:
-<p>
-    -Object-Oriented Programming (OOP) Struggles: Understanding and properly applying OOP concepts, such as classes and inheritance, was difficult. Structuring the code efficiently took more time than expected.
-    -Physics Tweaks: Fine-tuning gravity, jump force, and collision detection to make the game feel natural was trickier than anticipated.
-    -Game Loop Issues: Ensuring a consistent frame rate and properly resetting the game after a loss presented some challenges.
-    </p>
+
+    <p>-Object-Oriented Programming (OOP) Struggles: Understanding and properly applying OOP concepts, such as classes and inheritance, was difficult. Structuring the code efficiently took more time than expected.</p>
+    <p>-Physics Tweaks: Fine-tuning gravity, jump force, and collision detection to make the game feel natural was trickier than anticipated.</p>
+    <p>-Game Loop Issues: Ensuring a consistent frame rate and properly resetting the game after a loss presented some challenges.</p>
+   
 
 ## Lessons Learned:
-<p>
-    -OOP Practice is Key: Breaking down the game into manageable classes helped, but I need more experience with structuring code efficiently.
-    -Debugging Strategies Matter: Learning to debug collision issues and refine movement physics was valuable for future projects.
-    -Start Simple: Beginning with a minimal working version and gradually adding features made the development process more manageable.
-   </p>
+
+    <p>-OOP Practice is Key: Breaking down the game into manageable classes helped, but I need more experience with structuring code efficiently.</p>
+    <p>-Debugging Strategies Matter: Learning to debug collision issues and refine movement physics was valuable for future projects.</p>
+    <p>-Start Simple: Beginning with a minimal working version and gradually adding features made the development process more manageable.</p>
+
