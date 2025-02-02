@@ -7,11 +7,11 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
 Comic/Story
 <div style="text-align: center;">
   <img src="ComicStartscreen.png" alt="Gameplay Screenshot" width="600">
-  <p>*Figure 1: Example of gameplay in action.*</p>
+  <p>*The Comic from the Startscreen*</p>
 </div>
 
-
 GamePlay
+
 
 Mermaid
 
