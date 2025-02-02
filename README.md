@@ -1,5 +1,4 @@
 # 🎮 **Game Title** 
-
 ---
 ---
 Collect as many shiny shells as possible for your mom’s dinner—but watch out! The moving algae create tricky gaps that you’ll need to skillfully swim through. One wrong move, and you’ll get caught!
