@@ -1,4 +1,4 @@
-#### Splashy Tails
+### Splashy Tails
 ---
 ---
 Collect as many shiny shells as possible for your mom’s dinner—but watch out! The moving algae create tricky gaps that you’ll need to skillfully swim through. One wrong move, and you’ll get caught!
@@ -27,3 +27,6 @@ Collect as many shiny shells as possible for your mom’s dinner—but watch out
   <img src="Shell.png" alt="Shell" width="52">
   <p>The Comic from the Startscreen</p>
 </div>
+
+
+### Splashy Tails
